@@ -1,0 +1,6 @@
+name = "profanity-api"
+compatibility_date = "2024-04-16"
+
+[vars]
+VECTOR_URL = "https://giving-parrot-60581-us1-vector.upstash.io"
+VECTOR_TOKEN = "ABcFMGdpdmluZy1wYXJyb3QtNjA1ODEtdXMxYWRtaW5PRGRtWkdFMVlqZ3ROalptTlMwMFpqSTVMV0kzWTJFdFpHTm1Nak0zTXpJd05UQTE="

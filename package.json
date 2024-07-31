@@ -1,0 +1,23 @@
+{
+  "name": "honojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "wrangler deploy --minify index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@upstash/vector": "^1.1.5",
+    "csv-parser": "^3.0.0",
+    "hono": "^4.5.3",
+    "langchain": "^0.2.12"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.16.2",
+    "wrangler": "^3.67.1"
+  }
+}
